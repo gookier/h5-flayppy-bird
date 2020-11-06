@@ -3,6 +3,8 @@
 #### 介绍
 html5开发一款笨鸟先飞小游戏
 
+![image](https://gitee.com/chengkaigu/flappybird/blob/master/%E6%88%AA%E5%9B%BE/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20201106113229.png)
+
 #### 软件架构
 基于html5的canvas开发，项目的运行需要启动服务
 
