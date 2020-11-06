@@ -4,20 +4,20 @@
 html5开发一款笨鸟先飞小游戏
 
 #### 软件架构
-软件架构说明
+基于html5的canvas开发，项目的运行需要启动服务
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  在本地运行，可以结合http-serve使用
+2.  npm i -g http-server
+3.  cd ‘”项目文件名“ 
+4.  运行：http-server
+5.  在浏览器中输入localhost:8080
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  点击屏幕，控制小鸟飞行就行
 
 #### 参与贡献
 
