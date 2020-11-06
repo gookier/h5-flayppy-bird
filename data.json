@@ -1,0 +1,34 @@
+{
+	"images":[
+		{"name":"bg_day","url":"image/bg_day.png"},
+		{"name":"bg_night","url":"image/bg_night.png"},
+		{"name":"bird0_0","url":"image/bird0_0.png"},
+		{"name":"bird0_1","url":"image/bird0_1.png"},
+		{"name":"bird0_2","url":"image/bird0_2.png"},
+		{"name":"bird1_0","url":"image/bird1_0.png"},
+		{"name":"bird1_1","url":"image/bird1_1.png"},
+		{"name":"bird1_2","url":"image/bird1_2.png"},
+		{"name":"bird2_0","url":"image/bird2_0.png"},
+		{"name":"bird2_1","url":"image/bird2_1.png"},
+		{"name":"bird2_2","url":"image/bird2_2.png"},
+		{"name":"land","url":"image/land.png"},
+		{"name":"pipe_down","url":"image/pipe_down.png"},
+		{"name":"pipe_up","url":"image/pipe_up.png"},
+		{"name":"shuzi0","url":"image/font_048.png"},
+		{"name":"shuzi1","url":"image/font_049.png"},
+		{"name":"shuzi2","url":"image/font_050.png"},
+		{"name":"shuzi3","url":"image/font_051.png"},
+		{"name":"shuzi4","url":"image/font_052.png"},
+		{"name":"shuzi5","url":"image/font_053.png"},
+		{"name":"shuzi6","url":"image/font_054.png"},
+		{"name":"shuzi7","url":"image/font_055.png"},
+		{"name":"shuzi8","url":"image/font_056.png"},
+		{"name":"shuzi9","url":"image/font_057.png"},
+		{"name":"logo","url":"image/title.png"},
+		{"name":"button_play","url":"image/button_play.png"},
+		{"name":"tutorial","url":"image/tutorial.png"},
+		{"name":"boom","url":"image/boom.jpg"},
+		{"name":"text_game_over","url":"image/text_game_over.png"}
+		
+	]
+}
